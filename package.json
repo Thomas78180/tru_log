@@ -1,0 +1,22 @@
+{
+  "name": "tru_log",
+  "version": "1.0.0",
+  "description": "basic loger whith colors, filename and line position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas78180/tru_log.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Thomas Rudrauf <thomas.rudrauf@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas78180/tru_log/issues"
+  },
+  "homepage": "https://github.com/Thomas78180/tru_log#readme"
+}
